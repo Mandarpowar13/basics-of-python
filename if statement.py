@@ -4,9 +4,9 @@ male= input('are you a male? ')
 tall= input("are you tall? ")
 
 if male == "yes" and tall == "yes":
-    print("you are tall male")
+    print("ohh!!!!you are tall male")
 elif male == "yes" and tall == "no":
-    print('you are a short male')
+    print('ohhh!!!you are a short male')
 elif male == "no" and tall == "yes":
     print('you are tall but not male!')
 
